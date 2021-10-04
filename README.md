@@ -25,7 +25,7 @@ docker run -it --rm \
     appwrite/appwrite:0.10.4
 ```
 
-Appwrite should be up and running now, and you can view it on localhost with the port you have set. The dashboard for a new project should look like this.
+Appwrite should be up and running now, and you can view it on localhost with the port you have set. The initial sign up page should be displayed.
 
 ![chrome_1c2mloGpRr](https://user-images.githubusercontent.com/19922556/135816109-38305986-8e52-4f57-b8ab-bbb2f0944896.png)
 
