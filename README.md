@@ -50,7 +50,7 @@ An example of using the Appwrite SDK in JavaScript
 const appwrite = new Appwrite();
 
 appwrite
-    .setEndpoint('http://localhost/v1') // Your Appwrite Endpoint
+    .setEndpoint('http://localhost:8098/v1') // Your Appwrite Endpoint
     .setProject('1337h4x0r') // Your project ID
 
 // Register User
