@@ -27,7 +27,7 @@ docker run -it --rm \
 
 Appwrite should be up and running now, and you can view it on localhost with the port you have set. The dashboard for a new project should look like this.
 
-![242301991_10160283253062345_6577460477979713736_n](https://user-images.githubusercontent.com/19922556/135815982-6e81276a-e883-44b0-8993-33e16feae21a.png)
+![chrome_1c2mloGpRr](https://user-images.githubusercontent.com/19922556/135816109-38305986-8e52-4f57-b8ab-bbb2f0944896.png)
 
 To use with NPM (node package manager) you can use the following command. I suggest creating a directory for your project.
 
