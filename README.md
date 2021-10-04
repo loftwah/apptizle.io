@@ -1,5 +1,8 @@
 # apptizle.io
 
+![apptizle](https://user-images.githubusercontent.com/19922556/135817613-d829258f-808c-40e2-ba9b-301a98e313cd.png)
+
+
 I'm not 100% what this is for now but it will be fun :)
 
 ## Getting started
